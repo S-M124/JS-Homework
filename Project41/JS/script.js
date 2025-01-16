@@ -44,7 +44,7 @@ enteredWordChecker = function (
     letter8.src = "../images/Tletter.jpg";
     letter8.style.height = "50px";
     alert("You Win!");
-  }
+  } else ifNotLetter();
 };
 
 enteredLetterChecker = function (
