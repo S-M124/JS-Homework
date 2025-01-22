@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap");
+.newsreader {
+  font-family: "Newsreader", serif;
+  font-optical-sizing: auto;
+  font-weight: 40px;
+  font-style: normal;
+}
+
+h1 {
+  text-align: center;
+}
+
+label > #numberIntoTextOutput {
+  display: block;
+  height: 100px;
+  font-size: 40px;
+}
+
+label > #numberInput {
+  font-size: 20px;
+}
+
+label > button {
+  align-items: center;
+}
